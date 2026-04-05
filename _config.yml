@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "datouzhao.png"
+  avatar           : "dzhengjian.jpg"
   name             : "Laihao Yang"
   pronouns         : # example: "He"  
   bio              : "Yang Laihao is an Associate Researcher at the School of Mechanical Engineering in Xi’an Jiaotong University and Deputy Director of the AECC–XJTU UIC. He serves as a member of the Dynamic Signal Analysis Technical Committee of the Chinese Society for Vibration Engineering, a member of the IFToMM China Committee, Associate Editor of the International Journal of Advanced Robotic Systems, a young editorial board member of journals including SmartBot, and a session chair for international conferences such as IEEE IROS."
-  location         : "Earth"
+  location         : "Xi'an"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "yanglaihao@xjtu.edu.cn" 
@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=G1LcEO4AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Laihao-Yang-3"
   scopus           : # URL
   zotero           : # URL
 
